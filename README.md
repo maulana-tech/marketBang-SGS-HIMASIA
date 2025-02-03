@@ -2,6 +2,8 @@
 
 Repository ini berisi tampilan **User Interface (UI)** yang dibuat menggunakan **HTML**, beserta dukungan CSS dan JavaScript (jika diperlukan). Proyek ini dibuat sebagai contoh/template untuk memulai pembuatan tampilan web yang responsif dan modern.
 
+<img src="belibang-html/assets/images/thumbnails/03.png">
+
 ## Fitur
 
 - **Struktur HTML5**: Menggunakan elemen HTML semantik untuk kemudahan pengembangan dan SEO.
@@ -11,7 +13,8 @@ Repository ini berisi tampilan **User Interface (UI)** yang dibuat menggunakan *
 
 ## Pratinjau (Preview)
 
-<img src="assets/images/thumbnails/01">
+
+<img src="belibang-html/assets/images/thumbnails/02.png">
 
 
 ## Teknologi yang Digunakan
