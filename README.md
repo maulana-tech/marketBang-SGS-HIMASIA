@@ -11,15 +11,14 @@ Repository ini berisi tampilan **User Interface (UI)** yang dibuat menggunakan *
 
 ## Pratinjau (Preview)
 
-![Screenshot UI](assets/images/thumbnails/01)
+<img src="assets/images/thumbnails/01">
 
-*Kamu dapat mengganti gambar `screenshot.png` dengan tampilan UI hasil karyamu.*
 
 ## Teknologi yang Digunakan
 
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) *(jika diperlukan)*
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Cara Memulai
 
@@ -34,4 +33,9 @@ Pastikan kamu sudah menginstall:
 1. **Clone Repository**  
    Buka terminal atau command prompt, lalu jalankan perintah berikut:
    ```bash
-   git clone https://github.com/username/nama-repo.git
+   git clone https://github.com/maulana-tech/marketBang-SGS-HIMASIA.git
+
+2. **Masuk ke Directory**  
+   Buka terminal atau command prompt, lalu jalankan perintah berikut:
+   ```bash
+   cd belibang-html
